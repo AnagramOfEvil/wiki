@@ -48,7 +48,7 @@ Each unique pool is defined in this table.
 <td><p>NO</p></td>
 <td><p>0</p></td>
 <td><p> </p></td>
-<td><p>Max number of objects (0) is no limit</p></td>
+<td><p>Max number of objects</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="#description">description</a></p></td>
@@ -72,7 +72,6 @@ The pool ID. This is an arbitrary number that is only used to link the gameobjec
 ### max\_limit
 
 This is the maximum number of objects that should be spawned in this pool.
-0 is no limit.
 
 ### description
 
